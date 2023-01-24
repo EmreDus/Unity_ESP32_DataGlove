@@ -1,0 +1,43 @@
+{
+  "name": "com.unity.xr.interaction.toolkit",
+  "displayName": "XR Interaction Toolkit",
+  "version": "2.0.4",
+  "unity": "2019.4",
+  "description": "A high-level, component-based, interaction system for creating VR and AR experiences. It provides a framework that makes 3D and UI interactions available from Unity input events. The core of this system is a set of base Interactor and Interactable components, and an Interaction Manager that ties these two types of components together. It also contains components that you can use for locomotion and drawing visuals.",
+  "keywords": [
+    "XR",
+    "VR",
+    "toolkit",
+    "interaction"
+  ],
+  "category": "XR",
+  "dependencies": {
+    "com.unity.inputsystem": "1.3.0",
+    "com.unity.ugui": "1.0.0",
+    "com.unity.xr.core-utils": "2.0.0",
+    "com.unity.xr.legacyinputhelpers": "2.1.8",
+    "com.unity.modules.audio": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.physics": "1.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "Starter Assets",
+      "description": "Assets to streamline setup of behaviors, including a default set of input actions and presets for use with XR Interaction Toolkit behaviors that use the Input System.",
+      "path": "Samples~/Starter Assets"
+    },
+    {
+      "displayName": "XR Device Simulator",
+      "description": "Assets related to the simulation of XR HMD and controllers.",
+      "path": "Samples~/XR Device Simulator"
+    }
+  ],
+  "upmCi": {
+    "footprint": "c1aa8571858c77eb2bb60ef41d5f4df59824df45"
+  },
+  "repository": {
+    "url": "https://github.com/Unity-Technologies/com.unity.xr.interaction.toolkit.git",
+    "type": "git",
+    "revision": "d06fdbfd8b27d0ed11b14914fe49ce91d89dc5ec"
+  }
+}
