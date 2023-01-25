@@ -1,7 +1,7 @@
 # Unity_ESP32_DataGlove
 Using ESP32 to transfer glove datas(MPU6050, potantiometer) to Unity enviroment. Simulating the hand in real-time using Unity
 
-Project video https://youtu.be/3E24ehh3QeA
+Project video https://youtu.be/hfcSUUkv5UE
 
 ![Ekran görüntüsü 2023-01-24 214925](https://user-images.githubusercontent.com/101596046/214400674-132f117c-4c33-4160-ad11-ea04110e8e5b.png)
 ![küçükresim](https://user-images.githubusercontent.com/101596046/214400678-c17a7781-0401-4e7d-927c-a207d3c62905.png)
